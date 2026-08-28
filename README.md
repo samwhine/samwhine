@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Samuel 👋</h1>
+<p align="center"><strong>Samuel Extehines Heydemans</strong></p>
 <h3 align="center">Creative Staff & Video Editor · Self-Hosted Infra Builder · Music Director</h3>
 
 <p align="center">
@@ -97,4 +98,4 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 
 ---
 
-<p align="center"><i>Open for freelance video editing & 2D animation work — feel free to reach out through my portfolio.</i></p>
+<p align="center"><i>Open for freelance video editing work — and always tinkering with self-hosted infrastructure on the side. Feel free to reach out through my portfolio.</i></p>
