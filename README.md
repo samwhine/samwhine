@@ -30,29 +30,29 @@
 
 ---
 
-### 🧭 About
+### About
 
-- 🎬 **Creative Staff & Video Editor** at **Legacy Records (Legacy ID)** — short-form edits for Reels/Shorts/TikTok, YouTube channel management, and promo content for artists
-- 🖥️ Also handle **self-hosted server & Cloudflare Tunnel infrastructure** for the office — including a custom dashboard to manage it all
-- 🎹 **Music Director** at **GMS Kelapa Gading**, outside of work — arranging worship music and playing keyboard, bass, and drums (mostly by ear, big love for jazz)
-- 🎓 Studying **Informatics** at **Mercu Buana University**
-- 🇮🇩 Based in Indonesia
+- **Creative Staff & Video Editor** at **Legacy Records (Legacy ID)** — short-form edits for Reels/Shorts/TikTok, YouTube channel management, and promo content for artists
+- Also handle **self-hosted server & Cloudflare Tunnel infrastructure** for the office — including a custom dashboard to manage it all
+- **Music Director** at **GMS Kelapa Gading**, outside of work — arranging worship music and playing keyboard, bass, and drums (mostly by ear, big love for jazz)
+- Studying **Informatics** at **Mercu Buana University**
+- Based in Indonesia
 
-### 🛠️ What I Build
+### What I Build
 
 I run a personal self-hosted ecosystem under the **WELL** brand, reachable through my own Cloudflare Tunnel setup:
 
 | Project | Description |
 |---|---|
-| 🚀 **WELL Launcher** | Flask-based web dashboard for managing local processes, with session handling, cross-device polling, and URL routing |
-| 📊 **WELL SysMonitor** | System monitor rebuilt as a Go binary — real-time GPU/disk/CPU stats with a modernized UI |
-| 🧰 **WELL Suite** | FastAPI toolkit for document conversion (PDF → DOCX/PPTX/XLSX) and audio utilities like a BPM & key detector |
-| ☁️ **SamuwellDrive** | Self-hosted file server — FastAPI backend + Vue 3 frontend, with share links, activity logs, and per-disk stats |
-| 🖥️ **WELL Share Screen** | WebRTC/PeerJS peer-to-peer screen & webcam sharing tool built for church live production |
-| 📁 **Filebrowser Quantum** | Custom build of the open-source Filebrowser project with upload resume, OG previews for share links, and other patches |
-| 🎛️ **LocatorControl** | Python MIDI Remote Script for Ableton Live 11 — transport control via locator/marker names |
+| **WELL Launcher** | Flask-based web dashboard for managing local processes, with session handling, cross-device polling, and URL routing |
+| **WELL SysMonitor** | System monitor rebuilt as a Go binary — real-time GPU/disk/CPU stats with a modernized UI |
+| **WELL Suite** | FastAPI toolkit for document conversion (PDF → DOCX/PPTX/XLSX) and audio utilities like a BPM & key detector |
+| **SamuwellDrive** | Self-hosted file server — FastAPI backend + Vue 3 frontend, with share links, activity logs, and per-disk stats |
+| **WELL Share Screen** | WebRTC/PeerJS peer-to-peer screen & webcam sharing tool built for church live production |
+| **Filebrowser Quantum** | Custom build of the open-source Filebrowser project with upload resume, OG previews for share links, and other patches |
+| **LocatorControl** | Python MIDI Remote Script for Ableton Live 11 — transport control via locator/marker names |
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -66,7 +66,7 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-### 🎥 Portfolio
+### Portfolio
 
 <a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
   <img src="https://api.microlink.io/?url=https%3A%2F%2Fsamuel-extehines-heydemans-portofolio.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1600&viewport.height=900&viewport.deviceScaleFactor=2&waitFor=3000" alt="Portfolio preview" width="100%" />
@@ -78,14 +78,14 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
   </a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwhine&theme=dark&hide_border=true" height="165" />
 </p>
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
