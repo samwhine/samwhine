@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Samuel 👋</h1>
-<p align="center"><strong>Samuel Extehines Heydemans</strong></p>
+<h1 align="center">Hey, I'm Samuel Extehines Heydemans 👋</h1>
 <h3 align="center">Creative Staff & Video Editor · Self-Hosted Infra Builder · Music Director</h3>
 
 <p align="center">
