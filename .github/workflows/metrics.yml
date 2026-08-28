@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          committer_branch: output
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          plugin_lines: yes
