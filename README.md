@@ -70,7 +70,7 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 ### 🎥 Portfolio
 
 <a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fsamuel-extehines-heydemans-portofolio.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio preview" width="100%" />
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fsamuel-extehines-heydemans-portofolio.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1600&viewport.height=900&viewport.deviceScaleFactor=2&waitFor=3000" alt="Portfolio preview" width="100%" />
 </a>
 
 <p align="center">
