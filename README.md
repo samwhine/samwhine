@@ -82,7 +82,7 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samwhine&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwhine&theme=dark&hide_border=true" height="165" />
 </p>
 
