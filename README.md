@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>"For everything there is a season, and a time for every matter under heaven."</em><br/>
-  <sub>— Ecclesiastes 3:1 · Pengkhotbah 3:1</sub>
+  <sub>— Ecclesiastes 3:1</sub>
 </p>
 
 ---
