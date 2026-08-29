@@ -49,7 +49,6 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 | **WELL Suite** | FastAPI toolkit for document conversion (PDF → DOCX/PPTX/XLSX) and audio utilities like a BPM & key detector |
 | **SamuwellDrive** | Self-hosted file server — FastAPI backend + Vue 3 frontend, with share links, activity logs, and per-disk stats |
 | **WELL Share Screen** | WebRTC/PeerJS peer-to-peer screen & webcam sharing tool built for church live production |
-| **Filebrowser Quantum** | Custom build of the open-source Filebrowser project with upload resume, OG previews for share links, and other patches |
 | **LocatorControl** | Python MIDI Remote Script for Ableton Live 11 — transport control via locator/marker names |
 
 ### Tech Stack
@@ -69,7 +68,7 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 ### Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=samwhine&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=samwhine&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ### Portfolio
