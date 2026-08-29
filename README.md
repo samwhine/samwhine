@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samuel Extehines Heydemans 👋</h1>
-<h3 align="center">Creative Staff & Video Editor · Self-Hosted Infra Builder · Music Director</h3>
+<h3 align="center">Creative Staff & Video Editor · Self-Hosted Infrastructure Builder · Music Director</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Editing+short-form+content+for+Reels%2C+Shorts+%26+TikTok;Running+self-hosted+servers+behind+the+scenes;Playing+keyboard%2C+bass+%26+drums+for+GMS;Building+the+WELL+suite+of+self-hosted+tools" alt="Typing SVG" />
