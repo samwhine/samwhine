@@ -87,11 +87,11 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwhine&theme=dark&hide_border=true" width="650" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwhine&theme=dark&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" width="650" />
 </p>
 
 ### Contribution Graph
