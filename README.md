@@ -55,10 +55,7 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,vue,nextjs,ts,js,cloudflare" />
-</p>
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,vue,nextjs,ts,js,cloudflare" /><br/>
   <sub>Python · FastAPI · Flask · Go · Vue.js · Next.js · TypeScript · JavaScript · Cloudflare</sub>
 </p>
 
@@ -82,8 +79,11 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
 
 ### GitHub Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" width="100%" />
+</p>
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/samwhine/samwhine/output/github-metrics.svg" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwhine&theme=dark&hide_border=true" height="165" />
 </p>
 
