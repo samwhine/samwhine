@@ -65,12 +65,6 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-### Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=samwhine&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
 ### Portfolio
 
 <a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
