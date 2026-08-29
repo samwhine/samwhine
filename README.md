@@ -58,6 +58,10 @@ I run a personal self-hosted ecosystem under the **WELL** brand, reachable throu
   <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,vue,nextjs,ts,js,cloudflare" />
 </p>
 
+<p align="left">
+  <sub>Python · FastAPI · Flask · Go · Vue.js · Next.js · TypeScript · JavaScript · Cloudflare</sub>
+</p>
+
 ### Trophies
 
 <p align="left">
