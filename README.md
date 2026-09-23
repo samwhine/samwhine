@@ -72,12 +72,16 @@ I build and operate independent personal tools under the **WELL Ecosystem** thro
 
 | Project | Description |
 | --- | --- |
-| **WELL Launcher** | Flask-based web dashboard for managing local processes, with session handling, cross-device polling, and URL routing |
-| **WELL SysMonitor** | System monitor rebuilt as a Go binary with real-time GPU, disk, and CPU statistics and a modernized UI |
 | [**WELL Downloader**](https://github.com/samwhine/WELLDownloader) | Local-first Python media downloader for public video, audio, image, and carousel content using FastAPI, yt-dlp, and FFmpeg |
-| **SamuwellDrive** | Self-hosted file server with a FastAPI backend and Vue 3 frontend, including share links, activity logs, and per-disk statistics |
-| **WELL Share Screen** | WebRTC/PeerJS peer-to-peer screen and webcam sharing tool built for church live production |
-| **LocatorControl** | Python MIDI Remote Script for Ableton Live 11, providing transport control through locator and marker names |
+| [**WELL Launcher**](https://github.com/samwhine/WELLLauncher) | Local process and service launcher for managing self-hosted workflows |
+| [**WELL Share Screen**](https://github.com/samwhine/WELLShareScreen) | WebRTC/PeerJS peer-to-peer screen and webcam sharing tool for production workflows |
+| [**WELLMotionGraphicsTemplate**](https://github.com/samwhine/WELLMotionGraphicsTemplate) | Motion graphics tooling for creative production workflows |
+
+### Creative Technology & Music Tooling
+
+| Project | Description |
+| --- | --- |
+| [**LocatorControl**](https://github.com/samwhine/Locator-Control-Ableton-11-Suite-Installer) | Ableton Live 11 MIDI Remote Script for locator-based transport control and live setlist management |
 
 ### Tech Stack
 
