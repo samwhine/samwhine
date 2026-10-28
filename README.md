@@ -7,7 +7,7 @@
   <a href="https://thehouseworks.vercel.app/">
     <img src="https://img.shields.io/badge/The_House_Works-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="The House Works" />
   </a>
-  <a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
+  <a href="https://samuelheydemans.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-extehines-heydemans/">
@@ -23,9 +23,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p> <div align="center">
-  <em>"For everything there is a season, and a time for every matter under heaven."</em>  
+  <em>"For everything there is a season, and a time for every matter under heaven."</em>
 
-  <sub>— Ecclesiastes 3:1</sub>
+<sub>— Ecclesiastes 3:1</sub>
+
 </div>
 
 ---
@@ -100,10 +101,10 @@ I build and operate independent personal tools under the **WELL Ecosystem** thro
 
 ### Portfolio
 
-<a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
+<a href="https://samuelheydemans.my.id/">
 <img src="https://raw.githubusercontent.com/samwhine/samuel-extehines-heydemans-portofolio/main/public/og-image.png" alt="Preview of Samuel Extehines Heydemans' portfolio website" width="100%" />
 </a> <p align="center">
-  <a href="https://samuel-extehines-heydemans-portofolio.vercel.app/">
+  <a href="https://samuelheydemans.my.id/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
   </a>
   <a href="https://thehouseworks.vercel.app/">
