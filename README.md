@@ -71,12 +71,18 @@ Beyond creative production, I design and operate practical systems for media wor
 
 I build and operate independent personal tools under the **WELL Ecosystem** through my own infrastructure and Cloudflare Tunnel setup. WELL is an umbrella for separate projects; it is not one single software suite, and each repository may have a different development status.
 
+[**FileBrowserQuantumCustom**](https://github.com/samwhine/FileBrowserQuantumCustom) — Custom Windows build and maintenance work for FileBrowser Quantum, including upload resilience patches, branding controls, and production configuration for self-hosted file infrastructure.
+
 | Project | Description |
 | --- | --- |
 | [**WELL Downloader**](https://github.com/samwhine/WELLDownloader) | Local-first Python media downloader for public video, audio, image, and carousel content using FastAPI, yt-dlp, and FFmpeg |
 | [**WELL Launcher**](https://github.com/samwhine/WELLLauncher) | Local process and service launcher for managing self-hosted workflows |
 | [**WELL Share Screen**](https://github.com/samwhine/WELLShareScreen) | WebRTC/PeerJS peer-to-peer screen and webcam sharing tool for production workflows |
 | [**WELLMotionGraphicsTemplate**](https://github.com/samwhine/WELLMotionGraphicsTemplate) | Motion graphics tooling for creative production workflows |
+
+### Creative Production Utilities
+
+[**Video Stabilizer**](https://github.com/samwhine/Video-Stabilizer-By-Samuwell) — Windows batch utility that uses FFmpeg and `libvidstab` to stabilize handheld footage with non-destructive output and selectable quality modes.
 
 ### Creative Technology & Music Tooling
 
