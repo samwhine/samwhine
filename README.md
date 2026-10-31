@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/samuel-extehines-heydemans/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.behance.net/samuel-e-heydemans">
+  <a href="https://www.behance.net/samuelheydemans">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="https://instagram.com/samuelheydemans">
@@ -23,17 +23,18 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p> <div align="center">
-  <em>"For everything there is a season, and a time for every matter under heaven."</em>
+  <em>"For everything there is a season, and a time for every matter under heaven."</em>  
 
-<sub>— Ecclesiastes 3:1</sub>
-
+  <sub>— Ecclesiastes 3:1</sub>
 </div>
+
+<p align="center"><strong>GitHub username: <code>@samwhine</code></strong></p>
 
 ---
 
 ### About
 
-I am a **Co-founder of The House Works** and a **Creative Technologist** working across video production, animation, web development, and self-hosted infrastructure.
+I am **Samuel Extehines Heydemans (@samwhine on GitHub)**, a **Co-founder of The House Works** and a **Creative Technologist** working across video production, animation, web development, and self-hosted infrastructure.
 
 - **Co-founder & Creative Partner** at [The House Works](https://thehouseworks.vercel.app/) — an independent creative business focused on visual production and digital work
 
@@ -53,7 +54,7 @@ I am a **Co-founder of The House Works** and a **Creative Technologist** working
 
 My creative work focuses on editing, animation, pacing, storytelling, and promotional content for artists, brands, and social platforms.
 
-Selected work is available on [Behance](https://www.behance.net/samuel-e-heydemans), including:
+Selected work is available on [Behance](https://www.behance.net/samuelheydemans), including:
 
 - Short-form video editing for Reels, Shorts, and TikTok
 
@@ -71,7 +72,7 @@ Beyond creative production, I design and operate practical systems for media wor
 
 I build and operate independent personal tools under the **WELL Ecosystem** through my own infrastructure and Cloudflare Tunnel setup. WELL is an umbrella for separate projects; it is not one single software suite, and each repository may have a different development status.
 
-[**FileBrowserQuantumCustom**](https://github.com/samwhine/FileBrowserQuantumCustom) — Custom Windows build and maintenance work for FileBrowser Quantum, including upload resilience patches, branding controls, and production configuration for self-hosted file infrastructure.
+**[FileBrowserQuantumCustom](https://github.com/samwhine/FileBrowserQuantumCustom)** — Custom Windows build and maintenance work for FileBrowser Quantum, including upload resilience patches, branding controls, and production configuration for self-hosted file infrastructure.
 
 | Project | Description |
 | --- | --- |
@@ -82,7 +83,7 @@ I build and operate independent personal tools under the **WELL Ecosystem** thro
 
 ### Creative Production Utilities
 
-[**Video Stabilizer**](https://github.com/samwhine/Video-Stabilizer-By-Samuwell) — Windows batch utility that uses FFmpeg and `libvidstab` to stabilize handheld footage with non-destructive output and selectable quality modes.
+**[Video Stabilizer](https://github.com/samwhine/Video-Stabilizer-By-Samuwell)** — Windows batch utility that uses FFmpeg and `libvidstab` to stabilize handheld footage with non-destructive output and selectable quality modes.
 
 ### Creative Technology & Music Tooling
 
